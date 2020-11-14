@@ -104,3 +104,5 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
+  repo: https://github.com/Yudai-Chen/wanzihexiaoxiong
+  branch: gh-pages
