@@ -103,6 +103,8 @@ theme: hexo-theme-matery
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: https://github.com/Yudai-Chen/wanzihexiaoxiong
-  branch: gh-pages
+-  type: git
+   repo: https://github.com/Yudai-Chen/wanzihexiaoxiong
+   branch: gh-pages
+-  type: netlify
+   repo:
